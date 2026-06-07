@@ -69,7 +69,6 @@ Rent Returned to Maker
 * SPL Token Program
 * Token-2022
 * LiteSVM
-* TypeScript Tests
 
 ---
 
